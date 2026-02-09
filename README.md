@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👩‍💻 Full Stack Developer with strong interest in AI, Generative AI, and Prompt Engineering.<br>🤖 Hands-on experience building AI-powered web applications and Full Stack projects.<br>🌐 Skilled in React, Node.js, Python, SQL, and modern web technologies.<br>🧠 Passionate about solving real-world problems using intelligent systems.<br>🚀 2025 graduate, actively preparing for high-impact Full Stack & AI roles.
+👩‍💻 Full Stack Developer with strong interest in AI, Full Stack , and Prompt Engineering.<br>🤖 Hands-on experience building AI-powered web applications and Full Stack projects.<br>🌐 Skilled in React, Node.js, Python, SQL, and modern web technologies.<br>🧠 Passionate about solving real-world problems using intelligent systems.<br>🚀 2025 graduate, actively preparing for high-impact Full Stack & AI roles.
 
 
 ## 🌐 Socials:
