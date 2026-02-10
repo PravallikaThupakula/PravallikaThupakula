@@ -1,30 +1,11 @@
-<div align="center">
-
-  <img 
-    src="YOUR_IMAGE_LINK_HERE" 
-    alt="Pravallika Avatar" 
-    width="180" 
-    style="border-radius: 50%; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" 
-  />
-
-  <h1 style="font-family: 'Poppins', sans-serif; color: #6A5ACD; margin-top: 15px;">
-    Hi, I'm <span style="color:#FF69B4;">Pravallika</span> 👋
-  </h1>
-
-  <h3 style="font-family: 'Montserrat', sans-serif; color: #444;">
-    🚀 Full Stack Developer & 🤖 AI Enthusiast
-  </h3>
-
-</div>
-
 # 💫 About Me:
 👩‍💻 Full Stack Developer with strong interest in AI, Software and Prompt Engineering.<br>🤖 Hands-on experience building AI-powered web applications and Full Stack projects.<br>🌐 Skilled in React, Node.js, Python, SQL, and modern web technologies.<br>🧠 Passionate about solving real-world problems using intelligent systems.<br>🚀 2025 graduate, actively preparing for high-impact Full Stack & AI roles.
 
 
-## 🌐 Socials:
+## 🌐 Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pravallikathupakula) 
 
-## 💻 Tech Stack:
+## 💻 Things I code with:
 # 🌐 Frontend <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
