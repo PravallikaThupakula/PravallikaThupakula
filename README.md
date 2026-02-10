@@ -1,24 +1,8 @@
-<div align="center">
+## 👋 Hey! Nice to see you.
 
-<!-- Typing Animation -->
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hey!+Nice+to+see+you+👋" 
-  alt="Typing SVG" 
-/>
-
-<!-- About Me Text -->
-<p style="font-size:16px; max-width:650px; line-height:1.6; color:#444; margin-top:10px;">
-  Welcome to my page! I'm <b>Pravallika</b>, a passionate developer who loves building  
-  intelligent, user-friendly applications using modern technologies.
-</p>
-
-<p style="font-size:16px; max-width:650px; line-height:1.6; color:#444;">
-  I enjoy working across <b>Full Stack Development</b> and exploring the exciting world of  
-  <b>Artificial Intelligence & Machine Learning</b>.
-</p>
-
-</div>
-
+Welcome to my page!  
+I’m **Pravallika**, a Full Stack Developer and AI Enthusiast,  
+interested in building intelligent applications and exploring modern technologies.
 
 
 ## 🌐 Where you can find me:
