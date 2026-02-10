@@ -1,12 +1,15 @@
-## 👋 Hey! Nice to see you.
+## 👋 Hey! Nice to see you!!
 
 Welcome to my page!  
-I’m **Pravallika**, a Full Stack Developer and AI Enthusiast,  
+I’m **Pravallika**
+Full Stack Developer and AI Enthusiast,  
 interested in building intelligent applications and exploring modern technologies.
 
 
 ## 🌐 Where you can find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pravallikathupakula) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravallikathupakula)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pravallikathupakula05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/PravallikaThupakula)
 
 ## 💻 Things I code with:
 🌐 Frontend <br>
@@ -45,7 +48,6 @@ interested in building intelligent applications and exploring modern technologie
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-[ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logo=heart&logoColor=white)
