@@ -1,36 +1,65 @@
+<div align="center">
+
 ## 👋 Hey! Nice to see you!!
 
 Welcome to my page!  
-I’m **Pravallika** <br>
-Full Stack Developer and AI Enthusiast,  
-interested in building intelligent applications and exploring modern technologies.
+I’m **Pravallika**  
+Full Stack Developer and AI Enthusiast  
+Interested in building intelligent applications and exploring modern technologies.
 
+<br>
 
 ## 🌐 Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravallikathupakula)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pravallikathupakula05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/PravallikaThupakula)
 
-# 💻 Things I code with:
+</div>
 
-## 🌐 Frontend <br>
+---
+
+# 💻 Things I code with
+
+<br>
+
+## 🌐 Frontend
+<div align="center">
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 
-## 🧠 Backend <br>
+</div>
+
+---
+
+## 🧠 Backend
+<div align="center">
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-## 🗄 Databases & Auth <br>
+</div>
+
+---
+
+## 🗄 Databases & Auth
+<div align="center">
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-## 🤖 AI / ML <br>
+</div>
+
+---
+
+## 🤖 AI / ML
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -42,7 +71,13 @@ interested in building intelligent applications and exploring modern technologie
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## 🛠 Tools & Platforms <br>
+</div>
+
+---
+
+## 🛠 Tools & Platforms
+<div align="center">
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -52,6 +87,9 @@ interested in building intelligent applications and exploring modern technologie
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logo=heart&logoColor=white)
 ![Bolt](https://img.shields.io/badge/Bolt-000000?style=for-the-badge&logo=lightning&logoColor=white)
+
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
