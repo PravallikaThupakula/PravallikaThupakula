@@ -1,13 +1,12 @@
 ## 👋 Hey! Nice to see you!!
 
-## Welcome to my page!  
-I’m 
-## Pravallika <br>
+Welcome to my page!  
+I’m **Pravallika** <br>
 Full Stack Developer and AI Enthusiast,  
 interested in building intelligent applications and exploring modern technologies.
 
 
-# 🌐 Where you can find me:
+## 🌐 Where you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravallikathupakula)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pravallikathupakula05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/PravallikaThupakula)
